@@ -1,3 +1,8 @@
+<div align="center">
+    <img src="https://github.com/Bhargav-devops/Bhargav-devops/blob/main/devops-image.png" alt="GitHub Banner"/>
+</div>
+
+###
 <h1 align="left">👋 Welcome to my GitHub Profile!</h1>
 
 ###
@@ -52,6 +57,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
 ###
